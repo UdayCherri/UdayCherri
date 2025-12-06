@@ -1,5 +1,5 @@
 # 💫 About Me:
-👀 I’m interested in Cybersecurity and Full Stack Development.<br>🌱 I’m currently learning Ethical Hacking and few other skills.<br>💞️ I’m looking forward to collaborate on CTFs and Web Development Projects.<br>⚡ Fun fact: I am interested in many things, the world is a big place y'know.
+👀 Designer. Developer. Hacker.<br>🌱 Currently in my 3rd year of B.Tech CSE.<br>💞️ Looking forward to collaborate with people of versatile skills.<br>⚡ Fun fact: I am interested in many things, the world is a big place y'know.
 
 
 ## 🌐 Socials:
